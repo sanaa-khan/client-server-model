@@ -1,5 +1,5 @@
 # Client Server Model 
-A small client server model representing a shopping store, where multiple clients can access and query the server. 
+A small client server model representing a shopping store, where multiple clients can access and query the server. Written in C++, uses socket programming to communicate between client and server programs.
 
 ## Requirements
 Considering the centralized database server; you are provided by the sample dataset of the shopping store which will be on the server. Client can access that server and ask the query about the different invoice number and their respective values available in the given dataset. Server should maintain a log of access time of clients.
