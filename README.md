@@ -12,3 +12,6 @@ Client can do following tasks.
 - Delete some record (after permission from other clients).
 - Add new record (Provide update message to all other clients).
 - Client can request log of server access.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
